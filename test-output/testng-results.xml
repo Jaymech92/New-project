@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18831" started-at="2019-11-10T06:51:08Z" finished-at="2019-11-10T06:51:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18831" started-at="2019-11-10T06:51:08Z" finished-at="2019-11-10T06:51:27Z">
+      <class name="org.sample.Testng">
+        <test-method status="PASS" signature="LaunchBrouser()[pri:0, instance:org.sample.Testng@f4468b]" name="LaunchBrouser" is-config="true" duration-ms="11844" started-at="2019-11-10T06:51:08Z" finished-at="2019-11-10T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrouser -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.Testng@f4468b]" name="startTime" is-config="true" duration-ms="3" started-at="2019-11-10T06:51:20Z" finished-at="2019-11-10T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:org.sample.Testng@f4468b]" name="atest" duration-ms="357" started-at="2019-11-10T06:51:20Z" finished-at="2019-11-10T06:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.Testng@f4468b]" name="endTime" is-config="true" duration-ms="0" started-at="2019-11-10T06:51:21Z" finished-at="2019-11-10T06:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="ztest()[pri:0, instance:org.sample.Testng@f4468b]" name="ztest" duration-ms="5080" started-at="2019-11-10T06:51:21Z" finished-at="2019-11-10T06:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ztest -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.Testng@f4468b]" name="startTime" is-config="true" duration-ms="0" started-at="2019-11-10T06:51:21Z" finished-at="2019-11-10T06:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.Testng@f4468b]" name="endTime" is-config="true" duration-ms="1" started-at="2019-11-10T06:51:26Z" finished-at="2019-11-10T06:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="closeBrouser()[pri:0, instance:org.sample.Testng@f4468b]" name="closeBrouser" is-config="true" duration-ms="1492" started-at="2019-11-10T06:51:26Z" finished-at="2019-11-10T06:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrouser -->
+      </class> <!-- org.sample.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
