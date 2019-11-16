@@ -53,6 +53,10 @@ public class Testng {
 	public void ztest() {
 		driver.findElement(By.id("u_0_b")).click();
 		System.out.println("hello");
+		System.out.println("morning");
+		System.out.println("night");
+		System.out.println("evening");
+		System.out.println("midnight");
 		
 	}
 }
