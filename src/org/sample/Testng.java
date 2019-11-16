@@ -52,6 +52,7 @@ public class Testng {
 	@Test
 	public void ztest() {
 		driver.findElement(By.id("u_0_b")).click();
+		System.out.println("hello");
 		
 	}
 }
